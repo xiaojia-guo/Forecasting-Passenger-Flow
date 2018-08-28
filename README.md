@@ -7,7 +7,7 @@ The predictive model developed is based on a regression tree combined with copul
 There are xxx files in this repository: 
 
 
-Fit regression tree.ipynb  ---  Cross-validation for choosing the tuning parameters, fit the tree to the entire training set,     
+\bf{Fit regression tree.ipynb}  ---  Cross-validation for choosing the tuning parameters, fit the tree to the entire training set,     
                                 visualize the reduced version of the tree, and find the segment that each passenger in the 
                                 test set belongs to.
                                 
