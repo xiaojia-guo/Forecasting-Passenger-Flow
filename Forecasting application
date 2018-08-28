@@ -4,5 +4,4 @@ The real-time forecasting application consists of two scripts: functions.py and 
 
 executeGUI.py creates the GUI interface that asks users to set the forecasting window, number of simulations, quantiles to predict, and update frequency.
 
-
 functions.py contains all the functions that are required by the GUI application.
